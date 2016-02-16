@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./helveticussivei00schegoog_0207.png"; bbox 0 0 3992 5213; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3977 78 3988 757">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3977 78 3988 757">
+     <span class='ocr_line' id='line_1_1' title="bbox 3977 78 3988 757"><span class='ocrx_word' id='word_1_1' title='bbox 3977 78 3988 757; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1339 369 1351 651">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1339 369 1351 651">
+     <span class='ocr_line' id='line_1_2' title="bbox 1339 560 1350 651; baseline 45.5 -227.5"><span class='ocrx_word' id='word_1_2' title='bbox 1339 560 1350 651; x_wconf 62' lang='lat'>‘¹1-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1342 369 1351 533; baseline 82 -246"><span class='ocrx_word' id='word_1_3' title='bbox 1343 369 1348 377; x_wconf 78' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 1342 387 1351 533; x_wconf 73' lang='grc' dir='ltr'>ιΙΙΙΙΙΙι</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
